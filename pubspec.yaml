@@ -1,0 +1,12 @@
+name: readcan
+
+version: 1.0.0
+
+environment:
+
+  sdk: '^3.1.0'
+
+dependencies:
+
+  linux_can: ^0.2.0
+
